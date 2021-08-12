@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\Clase Teorica 12.08.21\Clase Teorica 12.08.21\bin\Debug\netcoreapp3.1\Clase Teorica 12.08.21.exe
+C:\Users\PC\source\repos\Clase Teorica 12.08.21\Clase Teorica 12.08.21\bin\Debug\netcoreapp3.1\Clase Teorica 12.08.21.deps.json
+C:\Users\PC\source\repos\Clase Teorica 12.08.21\Clase Teorica 12.08.21\bin\Debug\netcoreapp3.1\Clase Teorica 12.08.21.runtimeconfig.json
+C:\Users\PC\source\repos\Clase Teorica 12.08.21\Clase Teorica 12.08.21\bin\Debug\netcoreapp3.1\Clase Teorica 12.08.21.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Clase Teorica 12.08.21\Clase Teorica 12.08.21\bin\Debug\netcoreapp3.1\Clase Teorica 12.08.21.dll
+C:\Users\PC\source\repos\Clase Teorica 12.08.21\Clase Teorica 12.08.21\bin\Debug\netcoreapp3.1\Clase Teorica 12.08.21.pdb
+C:\Users\PC\source\repos\Clase Teorica 12.08.21\Clase Teorica 12.08.21\obj\Debug\netcoreapp3.1\Clase Teorica 12.08.21.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Clase Teorica 12.08.21\Clase Teorica 12.08.21\obj\Debug\netcoreapp3.1\Clase Teorica 12.08.21.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Clase Teorica 12.08.21\Clase Teorica 12.08.21\obj\Debug\netcoreapp3.1\Clase Teorica 12.08.21.AssemblyInfo.cs
+C:\Users\PC\source\repos\Clase Teorica 12.08.21\Clase Teorica 12.08.21\obj\Debug\netcoreapp3.1\Clase Teorica 12.08.21.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Clase Teorica 12.08.21\Clase Teorica 12.08.21\obj\Debug\netcoreapp3.1\Clase Teorica 12.08.21.dll
+C:\Users\PC\source\repos\Clase Teorica 12.08.21\Clase Teorica 12.08.21\obj\Debug\netcoreapp3.1\Clase Teorica 12.08.21.pdb
+C:\Users\PC\source\repos\Clase Teorica 12.08.21\Clase Teorica 12.08.21\obj\Debug\netcoreapp3.1\Clase Teorica 12.08.21.genruntimeconfig.cache
